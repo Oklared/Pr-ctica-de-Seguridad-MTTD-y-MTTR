@@ -5,8 +5,8 @@
 - **Nombre completo:* Denis Alexander Hernandez Valdez* 
 - **Carné:** ///
 - **Correo institucional:** 
-- *Asignatura: Lenguajes de Programación con Aspectos de Seguridad 03-2026* Completar
-- *Fecha:*9-10-2026* 
+- * Asignatura: Lenguajes de Programación con Aspectos de Seguridad 03-2026* Completar
+- Fecha:*9-10-2026* 
 
 ## 2. Descripción
 
