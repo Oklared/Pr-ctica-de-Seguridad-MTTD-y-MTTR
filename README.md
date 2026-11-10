@@ -2,11 +2,11 @@
 
 ## 1. Datos generales
 
-- **Nombre completo:*Denis Alexander Hernandez Valdez* Completar
+- **Nombre completo:*Denis Alexander Hernandez Valdez* 
 - **Carné:** ///
-- **Correo institucional:**  Completar
+- **Correo institucional:** 
 - **Asignatura:*Lenguajes de Programación con Aspectos de Seguridad 03-2026* Completar
-- **Fecha:*9-10-2026* Completar
+- **Fecha:*9-10-2026* 
 
 ## 2. Descripción
 
